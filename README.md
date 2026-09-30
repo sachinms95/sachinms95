@@ -8,7 +8,8 @@ Senior DevOps / DevSecOps & Platform Engineer | AWS · EKS · Terraform · ArgoC
 AWS · Kubernetes (EKS) · Terraform · ArgoCD · Helm · HashiCorp Vault · Zabbix/Grafana/CloudWatch · Jenkins · GitHub Actions
 
 ## Featured Projects
-- [AWS IAM Policy Visualizer](https://sachinms95.github.io/iam-visualizer/) — interactive graph tool for visualizing AWS IAM Users, Groups, Roles & Policies
+- [AWS IAM Policy Visualizer](https://github.com/sachinms95/iam-visualizer) — interactive graph tool for visualizing AWS IAM Users, Groups, Roles & Policies
+- [AI Incident Triage Assistant](https://github.com/sachinms95/ai-incident-assistant) — AI-powered security alert classifier on Amazon EKS, built with Terraform, Helm, and ArgoCD GitOps; uses Amazon Bedrock (Claude) with an automatic rule-based fallback   
 - EKS Terraform Module — reusable IaC for provisioning production EKS clusters *(coming soon)*
 - CI/CD Pipeline Example — Docker build → ECR → EKS deploy automation *(coming soon)*
 
